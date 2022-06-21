@@ -1,6 +1,6 @@
 Frontend Development HW 1
 (Estimated complete time 5 hours)
-On a separate .md write your answers down for question 1 and 2.
+On a separate document or .md file write your answers down for question 1 and 2.
 
 1. What is coding to you? In a sentence or two describe to me what is coding? Use these resources to help guide you. 
 https://www.youtube.com/watch?v=vBxgw0dcqqA
