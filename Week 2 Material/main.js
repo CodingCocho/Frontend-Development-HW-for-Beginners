@@ -312,5 +312,14 @@ const main = () =>
         ["Amazon", "Google", "Microsoft", "Netflix"]
     )
 
-    if(companiesEqual(mergeCompanies()))
+    if(companiesEqual(mergeCompanies(myCompany1,myCompany2), solutionCompany))
+    {
+      console.log("Question 10 is correct.");
+    }
+    else
+    {
+      console.log("Question 10 is wrong.");
+    }
 }
+
+main();

@@ -1,5 +1,5 @@
 Frontend Development HW 2
-(Estimated complete time  hours)
+(Estimated complete time 6 hours)
 
 After we dove into the concept of frontend development and took a glimpse at HTML and CSS we will now move onto the main language that we will need to build intuition for which is JavaScript.
 For a while we are going to be working on just JavaScript then eventually bring everything together to build web applications. 
