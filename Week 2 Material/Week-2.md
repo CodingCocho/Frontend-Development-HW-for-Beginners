@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=OSWppEa2Zac
 https://www.youtube.com/watch?v=XIOLqoPHCJ4&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=5
 
 Here are some extra resource you can use to learn JavaScript if video watching ain't your learning style:
+
 https://javascript.info/
 https://www.w3schools.com/js/default.asp
 
